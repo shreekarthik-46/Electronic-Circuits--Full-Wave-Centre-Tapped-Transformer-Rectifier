@@ -45,4 +45,10 @@ To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare 
 
 ## OUTPUT:
 
-## RESULT:
+![fr-grp](https://github.com/user-attachments/assets/8dfd4af8-807f-4a33-98ca-8dc5f2836dd6)
+![frf-grp](https://github.com/user-attachments/assets/633f31f5-2f91-4859-a50f-4bfa17e94b4f)
+
+
+## RESULT: 
+
+![full wave-centre tapped](https://github.com/user-attachments/assets/8df84197-9385-4b46-b1bb-ba48d266f2b9)
